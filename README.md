@@ -1,4 +1,4 @@
-How to run Mikrotik Winobx on Linux Debian Dist's (apt):
+How to run Mikrotik Winbox on Linux Debian Dist's (apt):
 
 First, install Wine on terminal:
 
@@ -11,4 +11,3 @@ After installation, download the Winbox on: wine.exe on: https://github.com/edso
 Run the command line on the same directory:
 
 sudo wine winbox.exe
-
